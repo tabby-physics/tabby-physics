@@ -43,7 +43,7 @@ Convergence & Error Analysis
 ## 🚀 Selected Projects
 
 ### Physics Concept Lab
-→ [View Repository](https://github.com/tabby-physics/REPO_NAME_HERE)
+→ [View Repository]((https://github.com/tabby-physics/physics-concept-lab))
 
 An interactive computational physics platform combining numerical simulations with an AI-assisted learning experience.
 
@@ -61,7 +61,7 @@ An interactive computational physics platform combining numerical simulations wi
 ---
 
 ### Static Elasticity — Finite Element Method
-→ [View Repository](https://github.com/tabby-physics/REPO_NAME_HERE)
+→ [View Repository](https://github.com/tabby-physics/Static-Elasticity-Finite-Element-Method)
 
 A numerical study of one-dimensional static elasticity using the **Finite Element Method (FEM)**, with comparison against a finite-difference relaxation approach.
 
@@ -72,7 +72,7 @@ A numerical study of one-dimensional static elasticity using the **Finite Elemen
 ---
 
 ### Spectral Element Method — 1D Elastic Wave
-→ [View Repository](https://github.com/tabby-physics/REPO_NAME_HERE)
+→ [View Repository](https://github.com/tabby-physics/spectral-element-1d-elastic-wave)
 
 Implementation of the **Spectral Element Method (SEM)** for solving the one-dimensional elastic wave equation using GLL collocation points.
 
@@ -85,7 +85,7 @@ The project investigates numerical wave propagation and the behavior of the spec
 ---
 
 ### Fourier Acoustic Wave in 1D
-→ [View Repository](https://github.com/tabby-physics/REPO_NAME_HERE)
+→ [View Repository](https://github.com/tabby-physics/Fourier_Acoustic_Wave_in_1D))
 
 Numerical solution of the one-dimensional acoustic wave equation using and comparing multiple numerical approaches:
 
@@ -98,7 +98,7 @@ The project examines accuracy and numerical dispersion between the methods.
 ---
 
 ### Numerical Integration — Gauss-Legendre-Lobatto
-→ [View Repository](https://github.com/tabby-physics/REPO_NAME_HERE)
+→ [View Repository]((https://github.com/tabby-physics/Numerical-Integration-GLL))
 
 A computational study of numerical integration using **Gauss-Legendre-Lobatto (GLL) quadrature**, with applications to spectral-element methods.
 
