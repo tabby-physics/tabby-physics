@@ -173,7 +173,7 @@ I aim to make my computational work **reproducible, documented, and scientifical
 
 ## 🔗 Connect
 
-[LinkedIn](https://linkedin.com/in/YOUR-HANDLE-HERE) · [Portfolio](https://tabassum-tariq.lovable.app) · [GitHub](https://github.com/tabby-physics)
+[LinkedIn](https://www.linkedin.com/in/tabassum-tariq-a0415b36a/) · [Portfolio](https://tabassum-tariq.lovable.app) · [GitHub](https://github.com/tabby-physics)
 
 ---
 
