@@ -1,4 +1,5 @@
-<img src="YOUR_PHOTO_URL_HERE" width="150" align="right">
+<img width="776" height="822" alt="WhatsApp Image 2026-08-19 at 8 02 28 PM" src="https://github.com/user-attachments/assets/44e8992f-37e5-4d01-8648-06ee2fbdb5bc" />
+
 
 # Tabassum Tariq
 
