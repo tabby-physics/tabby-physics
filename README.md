@@ -43,7 +43,7 @@ Convergence & Error Analysis
 ## 🚀 Selected Projects
 
 ### Physics Concept Lab
-→ [View Repository] (https://github.com/tabby-physics/physics-concept-lab)
+→ [View Repository](https://github.com/tabby-physics/physics-concept-lab)
 
 An interactive computational physics platform combining numerical simulations with an AI-assisted learning experience.
 
@@ -85,7 +85,7 @@ The project investigates numerical wave propagation and the behavior of the spec
 ---
 
 ### Fourier Acoustic Wave in 1D
-→ [View Repository](https://github.com/tabby-physics/Fourier_Acoustic_Wave_in_1D))
+→ [View Repository](https://github.com/tabby-physics/Fourier_Acoustic_Wave_in_1D)
 
 Numerical solution of the one-dimensional acoustic wave equation using and comparing multiple numerical approaches:
 
@@ -98,7 +98,7 @@ The project examines accuracy and numerical dispersion between the methods.
 ---
 
 ### Numerical Integration — Gauss-Legendre-Lobatto
-→ [View Repository]((https://github.com/tabby-physics/Numerical-Integration-GLL))
+→ [View Repository](https://github.com/tabby-physics/Numerical-Integration-GLL)
 
 A computational study of numerical integration using **Gauss-Legendre-Lobatto (GLL) quadrature**, with applications to spectral-element methods.
 
