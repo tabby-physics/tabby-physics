@@ -43,7 +43,7 @@ Convergence & Error Analysis
 ## 🚀 Selected Projects
 
 ### Physics Concept Lab
-→ [View Repository]((https://github.com/tabby-physics/physics-concept-lab))
+→ [View Repository] (https://github.com/tabby-physics/physics-concept-lab)
 
 An interactive computational physics platform combining numerical simulations with an AI-assisted learning experience.
 
