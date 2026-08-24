@@ -1,5 +1,4 @@
-<img width="776" height="822" alt="WhatsApp Image 2026-08-19 at 8 02 28 PM" src="https://github.com/user-attachments/assets/44e8992f-37e5-4d01-8648-06ee2fbdb5bc" />
-
+<img src=""https://github.com/user-attachments/assets/64273713-fa03-4fd1-96cd-08e87d8ad263" />="150" align="right"> 
 
 # Tabassum Tariq
 
