@@ -11,7 +11,7 @@ My current work focuses on numerical methods for differential equations, wave pr
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 * Computational Physics
 * Numerical Methods for PDEs
@@ -23,7 +23,7 @@ My current work focuses on numerical methods for differential equations, wave pr
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 **Programming & Scientific Computing**
 
@@ -37,7 +37,7 @@ Convergence & Error Analysis
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 
 ### Physics Concept Lab
 → [View Repository](https://github.com/tabby-physics/physics-concept-lab)
@@ -103,7 +103,7 @@ A computational study of numerical integration using **Gauss-Legendre-Lobatto (G
 
 ---
 
-## 📚 Current Learning
+##  Current Learning
 
 I am continuously developing my background in computational and theoretical physics through coursework and independent projects.
 
@@ -118,7 +118,7 @@ Current areas include:
 
 ---
 
-## ⚛️ Research Direction
+##  Research Direction
 
 I am particularly interested in building a bridge between **computational physics and high-energy physics**.
 
@@ -130,13 +130,13 @@ I am interested in developing reproducible computational projects that connect m
 
 ---
 
-## 🌱 Scientific Community
+##  Scientific Community
 
 I also contribute to science communication and student-focused scientific activities through **QUANTA-S**, with interests spanning quantum technologies, physics education, and opportunities for students in science.
 
 ---
 
-## 📊 What I Build
+##  What I Build
 
 ```text
 Physical Problem
@@ -158,7 +158,7 @@ I aim to make my computational work **reproducible, documented, and scientifical
 
 ---
 
-## 🤝 Open to
+##  Open to
 
 * Computational Physics research opportunities
 * High Energy Physics projects
