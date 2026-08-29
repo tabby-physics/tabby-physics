@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/20c4e483-155c-45d9-b75f-241c9f7c7079" width="150" align="right">
-
 
 # Tabassum Tariq
 
@@ -22,7 +20,6 @@ My current work focuses on numerical methods for differential equations, wave pr
 * Wave Propagation & Computational Modeling
 * Statistical Mechanics & Monte Carlo Methods
 * High Energy Physics
-* Cosmology
 
 ---
 
